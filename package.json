@@ -1,0 +1,23 @@
+{
+  "name": "testunitarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QaSalva/TestUnitarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QaSalva/TestUnitarios/issues"
+  },
+  "homepage": "https://github.com/QaSalva/TestUnitarios#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
